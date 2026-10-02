@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://dagshub.com/Mateofc05/reto_ma2003b.dvc
+    auth = basic
+    user = jfzepeda
