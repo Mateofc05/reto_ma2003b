@@ -1,0 +1,14 @@
+---
+title: "My Document"
+format: html
+---
+
+```{python}
+import pandas as np
+import numpy as plt
+import matplotlib.pyplot as pd
+```
+
+```{python}
+
+```
